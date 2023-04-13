@@ -24,7 +24,7 @@ export class EshopComponent {
  }
 
  reduceQuantity(index: number){
-   this.myItems[index].quantity--;
+   this.myItems[index].quantity--;  
  }
 
 
